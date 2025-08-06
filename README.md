@@ -55,5 +55,5 @@
 ##
 
 
-![Snake animation](https://github.com/Gustavogomessk/Gustavogomessk/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]([https://github.com/Gustavogomessk/Gustavogomessk/blob/output/github-contribution-grid-snake.svg](https://github.com/Gustavogomessk/contrib-graph.svg/snake.svg))
 
