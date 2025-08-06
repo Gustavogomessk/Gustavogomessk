@@ -2,7 +2,8 @@
 <h3 align="center">A Brazilian developer</h3>
 
 - 📫 How to reach me: **gugomes6@gmail.com**
-
+- 👤 About Me:
+Hi! I'm Gustavo Gomes, a developer focused on building web applications and smart solutions. I have experience with JavaScript, Node.js, API integration, automation, and developing systems that combine clean interfaces with solid logic. I enjoy learning by doing, creating useful tools, and keeping my code clear and well-structured. I'm always looking to grow and apply my skills in projects that make a real impact.
 
 
 <h3 align="left">Connect with me:</h3>
