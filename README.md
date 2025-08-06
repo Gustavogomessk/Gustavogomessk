@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Gomes</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h3 align="center">A Brazilian developer</h3>
 
 - 📫 How to reach me: **gugomes6@gmail.com**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/gustavo gomes" target="blank">
+  <a href="https://www.linkedin.com/in/gustavo-gomes-279bbb222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo gomes" height="30" width="40" />
   </a>
 </p>
@@ -63,7 +63,6 @@
 
 ##
 
-<!-- Snake animation (opcional, precisa configurar GitHub Actions no repositório) -->
-<!--
+
 ![Snake animation](https://github.com/Gustavogomessk/Gustavogomessk/blob/output/github-contribution-grid-snake.svg)
--->
+
