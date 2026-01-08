@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor</h3>
 
 <p align="center">
-  Desenvolvedor focado em aplicações web e soluções inteligentes, unindo lógica sólida,
+  Desenvolvedor focado em aplicações e soluções inteligentes, unindo lógica sólida,
   interfaces limpas e tecnologia com propósito.
 </p>
 
