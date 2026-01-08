@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Gustavo Gomes</h1>
-<h3 align="center">Desenvolvedor brasileiro</h3>
+<h3 align="center">Desenvolvedor</h3>
 
 <p align="center">
   Desenvolvedor focado em aplicações web e soluções inteligentes, unindo lógica sólida,
@@ -39,7 +39,7 @@ Estou sempre em busca de evolução contínua e de aplicar meus conhecimentos em
 
 ### 🗄️ Bancos de Dados
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,phpMyAdmin" />
 </p>
 
 ### 🛠️ Ferramentas de Desenvolvimento
