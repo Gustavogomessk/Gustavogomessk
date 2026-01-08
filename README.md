@@ -44,7 +44,7 @@ Estou sempre em busca de evolução contínua e de aplicar meus conhecimentos em
 
 ### 🛠️ Ferramentas de Desenvolvimento
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,windows" />
 </p>
 
 
