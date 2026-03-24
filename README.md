@@ -15,6 +15,7 @@ Tenho experiência com **JavaScript**, **Node.js**, **integração de APIs**, **
 Gosto de aprender na prática, criar ferramentas úteis e manter um código limpo, bem estruturado e fácil de manter.  
 Estou sempre em busca de evolução contínua e de aplicar meus conhecimentos em projetos que gerem impacto real.
 
+- 🧑‍🎓 **Cursando Engenharia de Software**  
 - 🧑‍🎓 **Técnico em Informática** — Colégio Clóvis Bevilacqua  
 - 📖 **Aprimorando conhecimentos em** Node.js, React.js / Next.js e Desenvolvimento Full Stack  
 - 📚 **Aprendendo e evoluindo com tecnologia para melhorar vidas**
@@ -46,7 +47,6 @@ Estou sempre em busca de evolução contínua e de aplicar meus conhecimentos em
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,windows" />
 </p>
-
 
 ---
 
