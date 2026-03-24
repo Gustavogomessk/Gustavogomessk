@@ -23,7 +23,8 @@ Estou sempre em busca de evolução contínua e de aplicar meus conhecimentos em
 ---
 
 ### 📫 Contato
-- **E-mail:** gugomes6@gmail.com  
+- **E-mail:** gugomes6@gmail.com
+- **Tel** +55 (11)99534-7709
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gustavo-gomes-279bbb222" target="_blank">
