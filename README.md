@@ -56,4 +56,4 @@ Estou sempre em busca de evolução contínua e de aplicar meus conhecimentos em
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gustavogomessk/Gustavogomessk/output/github-contribution-grid-snake.svg">
   <img alt="Animação da grade de contribuições do GitHub" src="https://raw.githubusercontent.com/Gustavogomessk/Gustavogomessk/output/github-contribution-grid-snake.svg">
 </picture>
-<img width="1049" height="828" alt="image" src="https://github.com/user-attachments/assets/68b98d00-9c46-43dd-84d2-1688554fe928" />
+
